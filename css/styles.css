@@ -92,10 +92,11 @@ hr
 
 .bod
 {
-  background-color: red /* rgb(25, 161, 173)*/;
+  background-color:  rgb(25, 161, 173);
   height: 800px;
   width: 800px;
   position: relative;
+  left:33%;
   /*margin: 10px auto;*/
 }
 
